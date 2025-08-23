@@ -1,5 +1,5 @@
 requests
-click==7.1.2
+click==8.2.1
 appdirs==1.4.4
-beautifulsoup4==4.9.3
+beautifulsoup4==4.13.4
 
